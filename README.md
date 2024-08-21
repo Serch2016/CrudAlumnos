@@ -1,5 +1,5 @@
-CrudAlumnos
-Prueba Crud Alumnos PostgresSQL con Pruebas JUnit y Mockito
+# CrudAlumnos
+# Prueba Crud Alumnos PostgresSQL con Pruebas JUnit y Mockito
 
 Crear Base de Datos en PostgresSQL
 -- Database: Gestor_Alumnos
@@ -14,7 +14,8 @@ GRANT ALL ON DATABASE "Gestor_Alumnos" TO pg_database_owner;
 
 GRANT ALL ON DATABASE "Gestor_Alumnos" TO postgres;
 
-Crear la tabla de Alumnos en PostgreSQL
+# Crear la tabla de Alumnos en PostgreSQL
+
 -- Table: public.alumnos
 
 -- DROP TABLE IF EXISTS public.alumnos;
